@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Data Mining and Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Programming
-- 📫 How to reach me okky.triferyawan@student.president.ac.id
+- 📫 How to reach me okky.triferyawan@student.president.ac.id / okky.triferyawan@ist.id
 
 <!---
 okky-chan/okky-chan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
