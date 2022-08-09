@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Okky
 - 👀 I’m interested in Artificial Intelligence, Data Mining and Machine Learning
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning C++, Java and Python
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me okky.triferyawan@gmail.com / okky.triferyawan@student.president.ac.id
 
